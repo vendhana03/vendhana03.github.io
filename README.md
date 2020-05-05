@@ -6,7 +6,7 @@ This is a resume and CV theme for Bootstrap created by [Start Bootstrap](http://
 
 [![Resume Preview](https://raw.githubusercontent.com/vendhana03/vendhana03.github.io/master/img/preview.png)](https://sanjaysans.github.io/)
 
-**[View Live Preview](https://sanjaysans.github.io/)**
+**[View Live Preview](https://vendhana03.github.io/)**
 
 ## Status
 
